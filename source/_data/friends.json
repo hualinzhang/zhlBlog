@@ -1,5 +1,40 @@
 [
   {
+    "avatar": "/images/friends/linwutong.png",
+    "name": "林梧桐",
+    "introduction": "simple",
+    "url": "https://www.lynnwutong.top/",
+    "title": "前去学习"
+  },
+  {
+    "avatar": "/images/friends/zhaoshier.png",
+    "name": "赵十二",
+    "introduction": "努力奋进的赵十二",
+    "url": "https://zhaoshier.top/",
+    "title": "前去学习"
+  },
+  {
+    "avatar": "/images/friends/sweny.jpg",
+    "name": "Sweny-blog",
+    "introduction": "May your choices reflect your hopes, not your fears.",
+    "url": "https://www.sunwenyue.top/",
+    "title": "前去学习"
+  },
+  {
+    "avatar": "/images/friends/wangjinshan.png",
+    "name": "王金山",
+    "introduction": "在学习在工作，在认认真真的学习，在认认真真的工作",
+    "url": "https://www.wangjinshan.top/",
+    "title": "前去学习"
+  },
+  {
+    "avatar": "/images/friends/wangdaodao.png",
+    "name": "王叨叨",
+    "introduction": "无叨叨，不博客！不懂用户体验的前端不是好爸爸……",
+    "url": "https://wangdaodao.com/",
+    "title": "前去学习"
+  },
+  {
     "avatar": "http://image.luokangyuan.com/1_qq_27922023.jpg",
     "name": "码酱",
     "introduction": "我不是大佬，只是在追寻大佬的脚步",
@@ -9,7 +44,7 @@
   {
     "avatar": "http://image.luokangyuan.com/4027734.jpeg",
     "name": "闪烁之狐",
-    "introduction": "编程界大佬，技术牛，人还特别好，不懂的都可以请教大佬",
+    "introduction": "编程界大佬，网站基于他的框架搭建",
     "url": "https://blinkfox.github.io/",
     "title": "前去学习"
   },

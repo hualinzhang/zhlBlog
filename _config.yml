@@ -11,7 +11,7 @@ timezone: ""     #时区，可以不填写
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://49.233.250.126/ #暂时是IP,后续网站备案成功之后，改成域账号
+url: http://zhanghualin.com/ #暂时是IP,后续网站备案成功之后，改成域账号
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

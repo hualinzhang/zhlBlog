@@ -2,35 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ceaac80-7006-4f2f-84ef-9dba471bcbe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/202010151.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/202010152.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101520.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101521.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/20201015210.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/20201015211.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/20201015212.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101522.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101523.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101524.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101525.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101526.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101527.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101528.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101529.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101611.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020101612.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/202010161.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/202010201.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/friends/linwutong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/friends/sweny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/friends/wangdaodao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/friends/wangjinshan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/friends/zhaoshier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/life/202010161.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/202010141.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/202010141.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_data/friends.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/friends.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/layout/_partial/bg-cover-content.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/layout/_partial/bg-cover-content.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/layout/about.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/layout/about.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/layout/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/layout/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/layout/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/layout/layout.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/source/css/matery.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/source/css/matery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/source/medias/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/source/medias/avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/source/medias/reward/alipay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/source/medias/reward/alipay.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/source/medias/reward/wechat.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/source/medias/reward/wechat.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/hexo-theme-matery" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1iDfMIR4o74iijNelw76gbLOKP4" />
@@ -79,8 +64,17 @@
       <workItem from="1602643068566" duration="3731000" />
       <workItem from="1602667692710" duration="1314000" />
       <workItem from="1602726362337" duration="18666000" />
-      <workItem from="1602835152654" duration="700000" />
+      <workItem from="1602835152654" duration="9626000" />
+      <workItem from="1603173759979" duration="3851000" />
     </task>
+    <task id="LOCAL-00001" summary="微调格式，增加新博客">
+      <created>1602836016901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602836016901</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,8 +82,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="微调格式，增加新博客" />
+    <option name="LAST_COMMIT_MESSAGE" value="微调格式，增加新博客" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1602836012032">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1602836012032" />
     <state x="530" y="127" key="FileChooserDialogImpl" timestamp="1602667751742">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -102,9 +102,13 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="623" height="498" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1602482925468" />
-    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup" timestamp="1602817442228">
+    <state x="292" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602836034216">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1602817442228" />
+    <state x="292" y="97" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1602836034216" />
+    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup" timestamp="1602844967229">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1602844967229" />
   </component>
 </project>
