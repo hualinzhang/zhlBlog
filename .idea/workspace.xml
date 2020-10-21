@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ceaac80-7006-4f2f-84ef-9dba471bcbe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/images/1603244883997.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020102021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020102022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020102023.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/202010101.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/202010101.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/202010201.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/202010201.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/202010202.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/202010202.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/hexo-theme-matery" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1iDfMIR4o74iijNelw76gbLOKP4" />
@@ -60,7 +56,7 @@
       <workItem from="1602726362337" duration="18666000" />
       <workItem from="1602835152654" duration="9626000" />
       <workItem from="1603173759979" duration="3851000" />
-      <workItem from="1603195311942" duration="6446000" />
+      <workItem from="1603195311942" duration="15151000" />
     </task>
     <task id="LOCAL-00001" summary="微调格式，增加新博客">
       <created>1602836016901</created>
@@ -108,9 +104,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="292" y="97" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603195363949" />
-    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup" timestamp="1602844967229">
+    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup" timestamp="1603259048226">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1602844967229" />
+    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1603259048226" />
   </component>
 </project>
