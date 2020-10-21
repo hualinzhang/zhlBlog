@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ceaac80-7006-4f2f-84ef-9dba471bcbe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/202010161.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/202010201.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/friends/linwutong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/friends/sweny.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/friends/wangdaodao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/friends/wangjinshan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/friends/zhaoshier.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/life/202010161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/1603244883997.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/2020102021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/2020102022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/2020102023.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/friends.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/friends.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/layout/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/layout/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/202010101.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/202010101.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/202010201.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/202010201.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/hexo-theme-matery" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1iDfMIR4o74iijNelw76gbLOKP4" />
@@ -66,6 +60,7 @@
       <workItem from="1602726362337" duration="18666000" />
       <workItem from="1602835152654" duration="9626000" />
       <workItem from="1603173759979" duration="3851000" />
+      <workItem from="1603195311942" duration="6446000" />
     </task>
     <task id="LOCAL-00001" summary="微调格式，增加新博客">
       <created>1602836016901</created>
@@ -74,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602836016901</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="微调格式，增加新博客">
+      <created>1603195353390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603195353390</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,10 +88,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="微调格式，增加新博客" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1602836012032">
+    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1603195347300">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1602836012032" />
+    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1603195347300" />
     <state x="530" y="127" key="FileChooserDialogImpl" timestamp="1602667751742">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -102,10 +104,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="623" height="498" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1602482925468" />
-    <state x="292" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602836034216">
+    <state x="292" y="97" key="Vcs.Push.Dialog.v2" timestamp="1603195363949">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="292" y="97" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1602836034216" />
+    <state x="292" y="97" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603195363949" />
     <state x="379" y="0" width="840" height="858" key="search.everywhere.popup" timestamp="1602844967229">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
