@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ceaac80-7006-4f2f-84ef-9dba471bcbe7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/202010211.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/2020102111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/2020102112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/2020102113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/2020102114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/2020102115.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/202010202.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/202010202.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +61,7 @@
       <workItem from="1602726362337" duration="18666000" />
       <workItem from="1602835152654" duration="9626000" />
       <workItem from="1603173759979" duration="3851000" />
-      <workItem from="1603195311942" duration="15151000" />
+      <workItem from="1603195311942" duration="21944000" />
     </task>
     <task id="LOCAL-00001" summary="微调格式，增加新博客">
       <created>1602836016901</created>
