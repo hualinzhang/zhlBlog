@@ -1,15 +1,22 @@
 [
   {
+    "avatar": "/images/friends/shenshirui.jpg",
+    "name": "子墨",
+    "introduction": "若没有人赠予你阳光 ，那就做自己的小太阳",
+    "url": "https://szimo.gitee.io/learning-notes/#/",
+    "title": "前去学习"
+  },
+  {
     "avatar": "/images/friends/linwutong.png",
     "name": "林梧桐",
-    "introduction": "simple",
+    "introduction": "天大地大，世界比你想象中朦胧",
     "url": "https://www.lynnwutong.top/",
     "title": "前去学习"
   },
   {
     "avatar": "/images/friends/zhaoshier.png",
     "name": "赵十二",
-    "introduction": "努力奋进的赵十二",
+    "introduction": "努力奋进的赵十二~~~~努力奋进的赵十二~~~~",
     "url": "https://zhaoshier.top/",
     "title": "前去学习"
   },

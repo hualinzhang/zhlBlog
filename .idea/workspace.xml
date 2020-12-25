@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ceaac80-7006-4f2f-84ef-9dba471bcbe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/202010211.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020102111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020102112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020102113.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020102114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/2020102115.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_data/friends.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/friends.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/202010101.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/202010101.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-matery/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-matery/_config.yml" afterDir="false" />
     </list>
@@ -18,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/hexo-theme-matery" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1iDfMIR4o74iijNelw76gbLOKP4" />
@@ -34,11 +32,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/work_project/zhangjiajie_govp_web/gp_vue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="D:\AAA_Software\nodejs\node_global\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="D:\AAA_Software\WebStorm-2019.3.3\WebStorm2019.3.3\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Hexo\zhlBlog\source\_posts" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="showServicesTree" value="false" />
@@ -61,7 +64,19 @@
       <workItem from="1602726362337" duration="18666000" />
       <workItem from="1602835152654" duration="9626000" />
       <workItem from="1603173759979" duration="3851000" />
-      <workItem from="1603195311942" duration="21944000" />
+      <workItem from="1603195311942" duration="27560000" />
+      <workItem from="1604452431883" duration="658000" />
+      <workItem from="1604476051615" duration="7438000" />
+      <workItem from="1605148797702" duration="3092000" />
+      <workItem from="1605668553191" duration="29000" />
+      <workItem from="1605776918022" duration="2535000" />
+      <workItem from="1606205107097" duration="1146000" />
+      <workItem from="1606215998503" duration="605000" />
+      <workItem from="1606732057557" duration="1441000" />
+      <workItem from="1607506782008" duration="16000" />
+      <workItem from="1607930150828" duration="406000" />
+      <workItem from="1608535228229" duration="2524000" />
+      <workItem from="1608889867009" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="微调格式，增加新博客">
       <created>1602836016901</created>
@@ -93,10 +108,11 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="292" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1603195347300" />
-    <state x="530" y="127" key="FileChooserDialogImpl" timestamp="1602667751742">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="636" y="154" key="FileChooserDialogImpl" timestamp="1607506795506">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="530" y="127" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1602667751742" />
+    <state x="530" y="127" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603848730971" />
+    <state x="636" y="154" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607506795506" />
     <state x="170" y="0" key="SettingsEditor" timestamp="1602493477260">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -109,9 +125,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="292" y="97" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1603195363949" />
-    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup" timestamp="1603259048226">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="455" y="0" width="1008" height="1038" key="search.everywhere.popup" timestamp="1606732145726">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="379" y="0" width="840" height="858" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1603259048226" />
+    <state x="455" y="0" width="1008" height="1038" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606732145726" />
   </component>
 </project>
